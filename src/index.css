@@ -96,7 +96,7 @@ body {
 .winner {
   position: absolute;
   width: 100%;
-  min-height: 100vh;
+  min-height: 593px;
   top: 0;
   left: 0;
   display: grid;
