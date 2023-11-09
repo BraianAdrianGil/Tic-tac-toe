@@ -101,7 +101,6 @@ body {
   left: 0;
   display: grid;
   place-items: center;
-  align-content: flex-start;
   background-color: rgba(0, 0, 0, 0.7);
   z-index: 5;
 }
