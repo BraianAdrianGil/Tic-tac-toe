@@ -32,14 +32,14 @@ body {
 }
 
 .board {
-  margin-top: 2rem;
+  padding-top: 2rem;
+  min-height: 100vh;
   width: fit-content;
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
 }
 
 .board h1 {
@@ -101,6 +101,7 @@ body {
   left: 0;
   display: grid;
   place-items: center;
+  align-content: flex-start;
   background-color: rgba(0, 0, 0, 0.7);
   z-index: 5;
 }
