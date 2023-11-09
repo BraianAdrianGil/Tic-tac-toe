@@ -137,12 +137,11 @@ body {
 
 .winner .win.real__win {
   margin-left: 1rem;
-  border: 1px solid #eee;
 }
 
 .win > .square {
-  height: 40px;
-  width: 40px;
+  height: 50px;
+  width: 50px;
   font-size: 2rem;
 }
 
