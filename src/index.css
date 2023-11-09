@@ -7,7 +7,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: rgba(36, 36, 36, 0.184)
+  background-color: rgba(36, 36, 36, 0.184);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -120,10 +120,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  
 }
 
-.text header h2{
+.text header h2 {
   width: 100%;
 }
 
@@ -134,10 +133,9 @@ body {
   display: flex;
 }
 
-.winner .win.real__win{
+.winner .win.real__win {
   margin-left: 1rem;
   border: 1px solid #eee;
-
 }
 
 .win > .square {
